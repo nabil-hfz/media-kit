@@ -1,0 +1,9 @@
+Audios Result/
+Slides/
+Videos/
+Videos Result/
+venv/
+my_project_env/
+
+#git rm -r --cached --ignore-unmatch my_project_env
+#git rm -r --cached --ignore-unmatch venv
